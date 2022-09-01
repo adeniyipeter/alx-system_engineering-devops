@@ -1,1 +1,1 @@
-u+x
+chmod -R a+x */
